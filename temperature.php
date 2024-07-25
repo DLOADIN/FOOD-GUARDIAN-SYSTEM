@@ -20,6 +20,7 @@
   <script src="https://kit.fontawesome.com/14ff3ea278.js" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="jsfile.js"></script>
+  <script src="extension_remover.js"></script>
   <title>TEMPERATURE</title>
 </head>
 <body>

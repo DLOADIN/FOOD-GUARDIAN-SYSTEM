@@ -9,6 +9,7 @@
   <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
   <script src="./jsfile.js"></script>
   <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+  <script src="./extension_remover.js"></script>
 </body>
   <title>FORGOT PASSWORD</title>
 </head>

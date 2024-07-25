@@ -7,7 +7,8 @@
     <link rel="stylesheet" href="./CSS/loginandregistration.css">
     <link rel="shortcut icon" href="./image/th.jpeg.jpg" type="image/x-icon">
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
-    <script src="../JS/js.js"></script>
+    <script src="jsfile.js"></script>
+    <script src="./extension_remover.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
   </body>
   <title>REGISTRATION PAGE</title>

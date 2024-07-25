@@ -22,6 +22,7 @@
   <script src="https://kit.fontawesome.com/14ff3ea278.js" crossorigin="anonymous"></script><link rel="shortcut icon" href="../images/🇷🇼.jpeg" type="image/x-icon">
   <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
   <script src="jsfile.js"></script>
+  <script src="../extension_remover.js"></script>
   <title>YOUR PERSONAL DETAILS</title>
 </head>
 <body>
