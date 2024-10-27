@@ -20,4 +20,4 @@ This system is designed to simplify food management processes, making it easier 
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/food-management-system.git
+   git clone https://github.com/DLOADIN/FOOD-GUARDIAN-SYSTEM
